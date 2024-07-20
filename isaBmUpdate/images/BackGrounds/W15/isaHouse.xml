@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Psychic_BG_low.png">
+<SubTexture name="FireplaceBG0000" x="0" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0001" x="0" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0002" x="2255" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0003" x="2255" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0004" x="0" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0005" x="0" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0006" x="2255" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0007" x="2255" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0008" x="0" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0009" x="0" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0010" x="2255" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0011" x="2255" y="0" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0012" x="0" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0013" x="0" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0014" x="2255" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+<SubTexture name="FireplaceBG0015" x="2255" y="1577" width="2255" height="1577" frameX="0" frameY="0" frameWidth="2255" frameHeight="1578" />
+</TextureAtlas>
